@@ -1,0 +1,51 @@
+* {
+    background-color: white;
+    color: black;
+}
+
+.container {
+    display: flex;
+    margin-top: 400px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.button-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.box{
+    height: 50px;
+    width: 50px;
+    background-color: green;
+}
+
+.circle {
+ background-color: blue;
+ 
+ width: 50px;
+ height: 50px;
+ border-radius: 50px;
+}
+
+h2 {
+    text-align: center;
+}
+/* .name{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.slider {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.progress {
+    height: 10px;
+    background-color: green;
+    margin-bottom: 20px;
+    width: 0%;
+} */
